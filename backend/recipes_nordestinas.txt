@@ -1,0 +1,62 @@
+# Northeastern Brazilian Recipes Dataset
+# Nutritional information and recipes for RAG system
+
+## Acarajé
+- Ingredients: Black-eyed peas, onion, dendê oil, salt, pepper, shrimp, caruru
+- Nutritional info: High protein (from shrimp and beans), rich in healthy fats (dendê oil), moderate calories
+- Preparation: Soak black-eyed peas for 24h, blend with onion and spices. Fry in dendê oil. Serve with shrimp and caruru.
+- Nutrition notes: Good for muscle building due to high protein content from shrimp and beans
+
+## Baião de Dois
+- Ingredients: Rice, beans (fradinho), queijo coalho, bacon, bacon grease, butter, onion, coriander
+- Nutritional info: Balanced protein (beans and cheese), good carbs (rice), healthy fats (cheese and bacon)
+- Preparation: Fry bacon and onions, add rice and beans. Season with butter and cheese. Add coriander.
+- Nutrition notes: Excellent for weight gain or muscle building due to protein and complex carbs
+
+## Carne de Sol com Macaxeira
+- Ingredients: Sun-dried meat, cassava, butter, onion, garlic, tomato, coriander, alcatrão sauce
+- Nutritional info: High protein meat, complex carbs (cassava), essential vitamins and minerals
+- Preparation: Soak meat overnight, then cook with cassava and vegetables. Season with alcatrão.
+- Nutrition notes: Ideal for muscle building due to high protein content from sun-dried meat
+
+## Tapioca
+- Ingredients: Tapioca flour, filling options (queijo coalho, coconut, eggs)
+- Nutritional info: Gluten-free carbs, good energy source, low protein unless filled with cheese
+- Preparation: Heat tapioca flour in special pan to form crepe. Add fillings.
+- Nutrition notes: Good pre-workout food due to easily digestible carbs
+
+## Bode Guisado (Goat Stew)
+- Ingredients: Goat meat, onion, garlic, tomato, coriander, ginger, oil, salt, pepper
+- Nutritional info: Lean protein, low in saturated fat compared to beef, iron-rich
+- Preparation: Marinate goat meat, then stew with vegetables and spices.
+- Nutrition notes: Excellent for muscle gain and recovery, rich in protein and minerals
+
+## Peixe na Brasa (Grilled Fish)
+- Ingredients: Fresh fish, dendê oil, salt, pepper, onion, coriander, lime
+- Nutritional info: High-quality protein, omega-3 fatty acids, low calories
+- Preparation: Marinate fish with spices and grill over charcoal.
+- Nutrition notes: Perfect for weight loss and lean muscle maintenance
+
+## Caldo de Sururu
+- Ingredients: Sururu (mussels), water, onion, garlic, tomato, cilantro, malagueta pepper
+- Nutritional info: High protein from shellfish, low calories, rich in minerals
+- Preparation: Cook mussels in seasoned water with vegetables until shells open.
+- Nutrition notes: Good for lean protein intake, low calorie meal option
+
+## Munguzá
+- Ingredients: Corn, sugar, coconut milk, condensed milk, cinnamon
+- Nutritional info: Complex carbs from corn, healthy fats from coconut, moderate calories
+- Preparation: Cook corn with coconut milk and sweeteners. Add cinnamon.
+- Nutrition notes: Good post-workout meal due to carbs and healthy fats
+
+## Rabada
+- Ingredients: Tail of ox, onion, garlic, tomato, coriander, vinagre, oil
+- Nutritional info: High protein and collagen, good for joint health
+- Preparation: Slow-cook ox tail with vegetables until tender.
+- Nutrition notes: Excellent for recovery due to collagen content
+
+## Camarão na Moranga (Shrimp in Pumpkin)
+- Ingredients: Shrimp, pumpkin, coconut milk, crayfish paste, spices
+- Nutritional info: High protein shrimp, fiber from pumpkin, healthy fats
+- Preparation: Prepare pumpkin as container, fill with seasoned shrimp mixture and bake.
+- Nutrition notes: Low-calorie, high-protein meal for weight management
